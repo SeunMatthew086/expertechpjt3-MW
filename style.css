@@ -1,0 +1,150 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  background-color: #000473;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  color: white;
+  
+}
+
+.flexnav {
+  display: flex;
+  padding:20px 0;
+  border: 2px solid green;
+  margin:0px 80px ;
+}
+
+span {
+  border: 2px solid saddlebrown;
+}
+
+.logo {
+   border: 3px solid red;
+}
+
+.menu {
+   border: 3px solid pink;
+   margin-left:auto ;
+}  
+
+.navigation-item {
+  padding-left: 20px;
+}
+
+button{
+  border: 0;
+  background-color: yellow;
+  padding:10px ;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: white;
+}
+
+.hero {
+  margin-top: 120px;
+}
+
+.textpo1 {
+  margin-bottom: 20px;
+  font-weight: bolder;
+}
+
+.textpo2 {
+  margin-bottom: 20px;
+}
+
+img {
+  width: 570px;
+}
+
+.my-auto {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.w-60 {
+  width: 50%;
+}
+
+.w-40 {
+  width: 50%;
+}
+
+.large-button{
+  border: 0;
+  background-color: yellow;
+  padding:16px 54px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.about-us {
+  color: black;
+  margin-top: 80px;
+}
+
+.about-header{
+  display: flex;
+  border-bottom: 2px solid yellow;
+  margin-bottom: 60px;
+  padding-bottom: 8px;
+  /*width: 118px;*/
+  justify-content: center;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.whatWeDo{
+  color: black;
+  margin-top: 80px;
+  background-color: silver /*#f8f9fa*/;
+}
+
+.cardFlex1{
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  border: 2px solid brown;
+  background-color: white;
+  margin-left: 20px;
+  padding: 40px;
+  border-radius: 10px;
+  width: 250px;
+  height: 250px;
+  align-items: center;
+
+}
+
+.card-text1 {
+  margin-top: 125px;
+  text-align: center;
+  border: 2px solid orange;
+  
+}
+
+.card-text2 {
+  margin-top: 20px;
+  text-align: center;
+  border: 2px solid blue;
+  
+}
+
+.card-m {
+  margin-top: 50px;
+}
+
+
+
+
